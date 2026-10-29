@@ -5,7 +5,7 @@ A next-word prediction web application built using Python, Streamlit, TensorFlow
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** [Try the App](YOUR_STREAMLIT_APP_LINK)
+🔗 **Live Application:** [Try the App](https://lstmrnnnextwordprediction-abc.streamlit.app/)
 
 
 
@@ -149,4 +149,4 @@ Training accuracy alone does not guarantee good predictions. Validation performa
 
 **Vishal Kumar**
 
-- GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+
